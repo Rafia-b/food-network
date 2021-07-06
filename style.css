@@ -1,0 +1,103 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+h1{
+font-size: 40px;
+}
+.colorful-word{
+    color: orange;
+}
+.flexible-container{
+    display:flex;
+    margin-bottom: 100px;
+} 
+.delicious-food{
+    margin-top: 70px;
+   padding-left: 10%;
+   width: 50%;
+  
+    
+}
+.delicious-food img{
+    width: 100%;
+  
+ }
+
+
+.space-decrease{
+    line-height: 30px;
+  
+}
+.height-problem{
+    margin-top: 100px;
+}
+.link-button{
+    text-decoration: none;
+    background-image:linear-gradient(#ff7b00,tomato ) ;
+    padding:15px 30px ;
+    color: white;
+    font-weight: 700;
+    border-radius: 30px;
+   
+}
+.about-me{
+    display: flex;
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+   
+   
+    
+}
+
+.about-me img{
+    width: 100%; 
+    padding-left: 70px;
+
+}
+.padding-problem{
+    padding-right: 80px;
+    padding-left: 90px;
+    
+    text-align: center;
+}
+h2{
+    font-size: 30px;
+    font-weight: 700;
+    text-align: center;
+}
+.healthy-food{
+    text-align: center;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.food-item{
+   
+   
+    
+    display: flex;
+    background-position: left;
+    
+    
+}
+h3{
+    font-size: 40px;
+    color: #a59e9e;
+   
+    
+}
+.food-network{
+    color: orangered;
+    
+}
+.healthy-life{
+    text-align: center;
+    font-size: 20px;
+   background-color: #1f1b1b;
+}
+.healthy-life p{
+    color: #a59e9e;
+}
+
+
+
